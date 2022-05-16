@@ -25,11 +25,11 @@ func main(){
 	fmt.Println("Ismingizni kiriting!")
 	fmt.Scanf("%v",&ism)
 	switch ism {
-	case "a":
+	case "Anvar":
 		fmt.Println("Salom Anvar!")
-	case"b":
+	case"behruz":
 		fmt.Println("Salom Behruz !")
-	case "t":
+	case "Temur":
 		fmt.Println("Salom Temur !")
 	default:
 		fmt.Println("Bunaqa Ism Mavjud Emas !")				
